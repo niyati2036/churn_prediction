@@ -1,2 +1,5 @@
-tensorflow==2.15.0
-tensorboard
+streamlit
+tensorflow==2.13.0
+pandas
+numpy
+scikit-learn
